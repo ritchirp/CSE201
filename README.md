@@ -1,7 +1,7 @@
 # CSE201
-Group 16 Repository
+Group 16 Repository\n\n
 
-Feb. 24
+Feb. 24\n
 The first step in editing and making changes to code in github is to
 make an account. I made mine using my non-miami email, though I'm
 sure it would be fine either way.
